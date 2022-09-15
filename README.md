@@ -1,1 +1,1 @@
-# 4p22-frontend-ruslan-bashirov
+# 4p22-frontend
