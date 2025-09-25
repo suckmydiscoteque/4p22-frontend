@@ -1,0 +1,6 @@
+# JavaScript: Array includes
+Check if an element exists in array.
+
+```javascript
+const fruits = ["apple", "banana", "cherry"];
+console.log(fruits.includes("banana")); // true
